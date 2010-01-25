@@ -1,0 +1,25 @@
+Name=Marten-Plain
+Description=Port of the Adium Xtra
+Icon=happy.png
+Author=Mårten Lundin
+
+[default]
+meeh.png :! :-! :| :-|
+angry.png :( :-( =( :[ :-[ (u_u)
+very_angry.png  :E :-E >:( >:-(
+happy.png  :) :-) =) :] :-]
+very_happy.png  :D :-D =D
+wink.png  ;) ;-)
+sad.png  :'( :,( ;.( ;( (T_T)
+hmm.png  :/ :-/
+what.png  :o :-o :O :-O :0
+tongue.png  :P :-P :b :d :9 :-9
+hart.png  <3
+aaw.png  o:) o:-) O:) O:-) 0:) 0:-) (*_*)
+cool.png  B) B-) 8) 8-)
+gaah.png  :@ :-@ =@ =-@
+kiss.png  :* :-*
+mmf.png  :x :-x :X :-X x: x-: X: X-:
+
+[yahoo]
+kiss.png :x :-x :X :-X x: x-: X: X-:

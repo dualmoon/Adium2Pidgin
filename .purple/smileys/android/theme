@@ -1,0 +1,26 @@
+################################################################################
+###        GENERATED WITH Lunis Neko's AdiumXtraEmoticonSet converter        ###
+###   CONTACT: Jonathan "Lunis Neko" Davis <lunis[at]kittyanarchy[dot]net>   ###
+################################################################################
+name=android
+description=Port of Adium's android.
+icon=angry.png
+author=Lunis Neko <lunis[at]kittyanarchy[dot]net>
+[default]
+angry.png >:o >:-o >:O >:-O 
+money.png :-$
+scared.png :-!
+cry.png :'( 
+wink.png ;-) ;) 
+sad.png :-( :( 
+angel.png O:-) o:-)
+blush.png :-[
+tongue.png :-p :-P :P :p 
+gasp.png =-o =-O =o =O :o :O :-o :-O 
+cool.png 8-) 
+grin.png :-D :D 
+smile.png :-) :) 
+erm.png :-\ :-/ :/ :\ 
+wub.png :-x :-X
+con.png O.o o.O O_o o_O
+kiss.png :-*

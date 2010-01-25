@@ -1,0 +1,23 @@
+Name=Riceballs
+Description=Little riceballs love you! Anime inspired expressions on simple white ricenoggins.
+Icon=FootInMouth.png
+Author=David Lanham  (ported by Similian Sinclair)
+
+# Register as default smileys
+[default]
+Smile.png				:)		:-)
+AngryFace.png			>:-O	>:O
+Crying.png				:'-(	-,.,-	:'(
+MoneyMouth.png			:-$		:$
+FootInMouth.png 		:-!		:!
+Frown.png          		:(	 	-.-		:-(
+Gasp.png				:-O		:-o  	:o		:O
+Grin.png				:D		:-D
+Blush.png				:[		:-[
+Halo.png				o:-)	O:)		o:)		O:-)
+Kiss.png				:*		:-*
+LipsAreSealed.png		:-X		:X
+SOT.png	:p		:-P		:-p		:P
+Undecided.png			:/		:-\		:-/		:\
+WearingSunglasses.png   8)		8-)
+Wink.png				;)		;-)

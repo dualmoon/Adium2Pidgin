@@ -1,0 +1,29 @@
+################################################################################
+###        GENERATED WITH Lunis Neko's AdiumXtraEmoticonSet converter        ###
+###   CONTACT: Jonathan "Lunis Neko" Davis <lunis[at]kittyanarchy[dot]net>   ###
+################################################################################
+name=MacThemes Stickies MOD
+description=Port of Adium's MacThemes Stickies MOD.
+icon=icon_question.png
+author=Lunis Neko <lunis[at]kittyanarchy[dot]net>
+[default]
+icon_question.png :?:
+icon_confused.png :? ?? :confused;
+icon_smile.png :) =) :-) =-)
+icon_surprised.png :o :O =O :-O =-O =o :-o =-o
+icon_razz.png :p :P =p =P
+icon_redface.png :oops:
+icon_cry.png :'( :(( :'-( :-(( :cry:
+icon_twisted.png >:) >=) >:-) >=-)
+icon_exclaim.png :!:
+icon_idea.png :idea:
+icon_evil.png >:( >=( >:-( >=-(
+icon_lol.png :lol: XD xD lol
+icon_sad.png :( =( :-( =-(
+icon_mad.png :x :X =x =X
+icon_arrow.png -> :arrow:
+icon_eek.png o_o O_O 0_0 o_O O_o
+icon_biggrin.png :D =D :-D =-D
+icon_rolleyes.png :roll:
+icon_wink.png ;) ;-)
+icon_cool.png B) B-)
